@@ -48,10 +48,6 @@ namespace CivilianManagment
 
         }
         #region regolith
-        protected override float GetHeatMultiplier(ConverterResults result, double deltaTime)
-        {
-            return 0f;
-        }
 
         [KSPField]
         public string RecipeInputs = "";
@@ -482,12 +478,6 @@ namespace CivilianManagment
         }
 
         #region regolith
-
-
-        protected override float GetHeatMultiplier(ConverterResults result, double deltaTime)
-        {
-            return 0f;
-        }
 
 
         [KSPField]

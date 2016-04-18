@@ -1,0 +1,5 @@
+/obj/
+/bin/Debug/
+/bin/Release/*
+!/bin/Release/CivilianManagment.dll
+/CivilianManagment.userprefs
